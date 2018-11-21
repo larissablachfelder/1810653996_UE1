@@ -11,10 +11,27 @@ public class Aufgabe3_1810653996 {
         double zahl6 = 40.5;
 
         //zahl1 plus zahl2
-        double sum1 = zahl1 + zahl2;
-        System.out.println(sum1);
+        System.out.println(zahl1 + zahl2);
 
-        //
+        //zahl1 geteilt durch zahl2
+
+        System.out.println(zahl1 / zahl2);
+
+        //zahl4 mal zahl2
+
+        System.out.println(zahl4 * zahl2);
+
+        //zahl1 modulo zahl2
+
+        System.out.println(zahl1 % zahl2);
+
+        //Inkrementieren Sie zahl3
+        zahl3++;
+        System.out.println(zahl3);
+
+        //Dekrementieren Sie zahl2
+        zahl2--;
+        System.out.println(zahl2);
 
     }
 
