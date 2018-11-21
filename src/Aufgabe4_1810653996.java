@@ -36,11 +36,5 @@ public class Aufgabe4_1810653996 {
         System.out.println(zahl1!=zahl2);
 
 
-
-
-
-
-
-
     }
 }
