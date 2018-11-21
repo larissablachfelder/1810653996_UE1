@@ -12,7 +12,9 @@ public class Aufgabe3_1810653996 {
 
         //zahl1 plus zahl2
         double sum1 = zahl1 + zahl2;
-        System.out.println(sum);
+        System.out.println(sum1);
+
+        //
 
     }
 
